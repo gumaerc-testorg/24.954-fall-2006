@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes about identifying presuppositions, two tests (from Kai?s
   handout), the problem, Stalanaker?s strategy, and Heim?s (1983) strategy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-954-pragmatics-in-linguistic-theory-fall-2006/0c2bc1b9570a16079e63112581ca994f_presupposition2.pdf
+file: /media/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/0c2bc1b9570a16079e63112581ca994f_presupposition2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: presupposition2.pdf
 uid: 0c2bc1b9-570a-1607-9e63-112581ca994f
