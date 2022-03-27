@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0560f8dd-2b68-6893-b341-49b9aaf74213
 resourcetype: Document
 title: kratzer_part2.pdf
 uid: 256bee71-c9af-57e6-2b14-54d00d04161d

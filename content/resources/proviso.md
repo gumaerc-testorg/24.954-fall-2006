@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0560f8dd-2b68-6893-b341-49b9aaf74213
 resourcetype: Document
 title: proviso.pdf
 uid: 183e1b68-d752-e64a-29d3-d8a9b653c167

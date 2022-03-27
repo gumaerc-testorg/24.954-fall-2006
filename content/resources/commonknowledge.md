@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0560f8dd-2b68-6893-b341-49b9aaf74213
 resourcetype: Document
 title: commonknowledge.pdf
 uid: d88a6b9d-90f7-34a9-93d2-1320f1d5440a
