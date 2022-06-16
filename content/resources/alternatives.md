@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about density, symmetry, and other predicaments.
-file: /media/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/810b0756fa5d2821737d29db0f272009_alternatives.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/810b0756fa5d2821737d29db0f272009_alternatives.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: alternatives.pdf
 uid: 810b0756-fa5d-2821-737d-29db0f272009
 ---
+Lecture notes about density, symmetry, and other predicaments.
+
