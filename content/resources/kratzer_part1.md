@@ -6,6 +6,7 @@ file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/cf9de7005bd8af22
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kratzer_part1.pdf
 uid: cf9de700-5bd8-af22-53de-36bf93423fd9
 ---
 Lecture notes about exclusive questions, Kratzer 2005, and Groenendijk & Stokhof.
-

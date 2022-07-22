@@ -6,6 +6,7 @@ file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/736c38d0e3f465cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: more_implicature.pdf
 uid: 736c38d0-e3f4-65cb-54e5-5d774d9c7782
 ---
 Lecture notes about implicatures, Sauerland 2004a, computing scalar implicatures, the challenge of disjunction, and the exhaustivity operator approach.
-

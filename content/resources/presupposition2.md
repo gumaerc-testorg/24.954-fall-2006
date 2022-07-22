@@ -6,6 +6,7 @@ file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/0c2bc1b9570a1607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: presupposition2.pdf
 uid: 0c2bc1b9-570a-1607-9e63-112581ca994f
 ---
 Lecture notes about identifying presuppositions, two tests (from Kai?s handout), the problem, Stalanaker?s strategy, and Heim?s (1983) strategy.
-
