@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about exclusive questions, Kratzer 2005, and Groenendijk
   & Stokhof.
 file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/cf9de7005bd8af2253de36bf93423fd9_kratzer_part1.pdf
+file_size: 154891
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

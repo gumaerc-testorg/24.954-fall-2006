@@ -29,7 +29,7 @@ Groenendijk, Jeroen, and Martin Stokhof. "Semantic Analysis of *Wh*\-Complements
 
 Heim, Irene. "Interrogative Semantics and Karttunen's Semantics for Know." Edited by Buchalla, Rhonna, and Anita Mitwoch. Proceedings of the IATL 9th Annual Conference, 1994, pp. 128-144.
 
-Hagstrom, Paul. "What Questions Mean." *Glot International* 7, no. 7/8 (September/October 2003): 188-201. ({{% resource_link "030bdee3-533f-4558-a3b6-348fdf5f0c03" "PDF" %}})
+Hagstrom, Paul. "What Questions Mean." *Glot International* 7, no. 7/8 (September/October 2003): 188-201. ([PDF](http://www.bu.edu/linguistics/UG/hagstrom/papers/Hagstrom2003-glot.pdf))
 
 Beck, Sigrid, and Hotze Rullman. "A Flexible Approach to Exhaustivity in Questions." *Natural Language Semantics* 7 (1999): 249-298.
 
@@ -45,6 +45,6 @@ Heim, Irene. "Presupposition Projection." Edited by R. van der Sandt. "Presuppos
 
 ———. "On the Projection Problem for Presuppositions." *Pragmatics: A Reader*. Edited by Steven Davis. New York, NY: Oxford University Press, 1991. ISBN: 9780195058987.
 
-Schlenker, Philippe. "Be Articulate! A Pragmatic Theory of Presupposition Projection." Manuscript, UCLA and Institut Jean-Nicod, 2006. To appear in *Theoretical Linguistics* (2008). ({{% resource_link "640e09d0-47ff-4f97-a539-762dbea475e8" "PDF" %}})
+Schlenker, Philippe. "Be Articulate! A Pragmatic Theory of Presupposition Projection." Manuscript, UCLA and Institut Jean-Nicod, 2006. To appear in *Theoretical Linguistics* (2008). ([PDF](http://archive.nytud.hu/lola9/abs/schlenker.pdf))
 
 Schwarz, Florian. "Processing Presupposed Content." Manuscript, University of Massachusetts at Amherst, 2006. To appear in the *Journal of Semantics*.
