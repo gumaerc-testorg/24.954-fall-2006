@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Gajewski on Demand.
 file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/75bd8ab275374ac0acd7850455a61ea9_on_demand.pdf
+file_size: 32087
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

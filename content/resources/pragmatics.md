@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about pragmatics.
 file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/47c7cdc6ce5a2e52764d09685e43ded8_pragmatics.pdf
+file_size: 69901
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
