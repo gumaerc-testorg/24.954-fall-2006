@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about presupposition, the Stalnaker/Karttunen approach,
   and the projection problem.
 file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/ff38aef663db47f7765e0308cc4fe4e7_presupposition1.pdf
+file_size: 138991
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
