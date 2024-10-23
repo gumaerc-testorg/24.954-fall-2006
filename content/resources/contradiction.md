@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about implicatures and contradictions.
-file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/56fb2a60d747dfc3e3672966392eca75_contradiction.pdf
+file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/56fb2a60d747dfc3e3672966392eca75_contradiction.pdf
 file_size: 86226
 file_type: application/pdf
 learning_resource_types:
