@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about implicatures, Sauerland 2004a, computing scalar implicatures,
   the challenge of disjunction, and the exhaustivity operator approach.
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/736c38d0e3f465cb54e55d774d9c7782_more_implicature.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/736c38d0e3f465cb54e55d774d9c7782_more_implicature.pdf
 file_size: 178872
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about processing presupposed content, presuppositions,
   and the principle of parsimony.
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/9249d1691413f103afb4b27f5f0f7395_schwarz.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/9249d1691413f103afb4b27f5f0f7395_schwarz.pdf
 file_size: 157893
 file_type: application/pdf
 learning_resource_types:

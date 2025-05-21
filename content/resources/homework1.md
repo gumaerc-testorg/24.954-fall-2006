@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework #1 on Implicatures.'
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/69639d4fa409dbdbc757e919043e8fa3_homework1.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/69639d4fa409dbdbc757e919043e8fa3_homework1.pdf
 file_size: 28185
 file_type: application/pdf
 learning_resource_types:
