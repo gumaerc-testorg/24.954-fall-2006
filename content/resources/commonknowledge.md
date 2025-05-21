@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes about implicatures and common knowledge, informativeness
   with respect to shared assumptions, Gricean reasoning and informativeness, and the
   mystery of resistant implicatures.
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/d88a6b9d90f734a993d21320f1d5440a_commonknowledge.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/d88a6b9d90f734a993d21320f1d5440a_commonknowledge.pdf
 file_size: 138298
 file_type: application/pdf
 learning_resource_types:

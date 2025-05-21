@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes about embedded implicatures, the symmetry problem, horn
   sets and the neo-Gricean maxim of quantity, and putative cracks in the neo-Gricean
   picture.
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/557d2c730ec857dead959d2c5afa0ec8_embedded.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/557d2c730ec857dead959d2c5afa0ec8_embedded.pdf
 file_size: 77700
 file_type: application/pdf
 learning_resource_types:

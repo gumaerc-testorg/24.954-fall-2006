@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about questions and pragmatics.
-file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/3402264124d31ff8facb710611acd0e9_introquestions.pdf
+file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/3402264124d31ff8facb710611acd0e9_introquestions.pdf
 file_size: 172105
 file_type: application/pdf
 learning_resource_types:
