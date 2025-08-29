@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about Kratzer?s proposal, Irene?s objection, Angelika?s
   reply, and Quantificational Variability Effects.
-file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/256bee71c9af57e62b1454d00d04161d_kratzer_part2.pdf
+file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/256bee71c9af57e62b1454d00d04161d_kratzer_part2.pdf
 file_size: 132295
 file_type: application/pdf
 learning_resource_types:
