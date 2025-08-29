@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about Schlenker?s generalization, Heim's results, symmetry
   in disjunction, universal quantifiers, and existential quantifiers.
-file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/c489d41cc08b15e12bd84c609a129e6b_schlenker_2006.pdf
+file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/c489d41cc08b15e12bd84c609a129e6b_schlenker_2006.pdf
 file_size: 84027
 file_type: application/pdf
 learning_resource_types:

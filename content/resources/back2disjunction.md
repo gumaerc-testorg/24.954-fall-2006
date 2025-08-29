@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about disjunction.
-file: /courses/24-954-pragmatics-in-linguistic-theory-fall-2006/0baf98183f9e824708e997de64fb6c8e_back2disjunction.pdf
+file: /ol-ocw-studio-app/courses/24-954-pragmatics-in-linguistic-theory-fall-2006/0baf98183f9e824708e997de64fb6c8e_back2disjunction.pdf
 file_size: 109321
 file_type: application/pdf
 learning_resource_types:
